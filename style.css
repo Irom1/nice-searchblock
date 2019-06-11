@@ -1,14 +1,14 @@
 html {
   font-family: 'Oswald', sans-serif;
   margin: 1em 20%;
-  background-color: #cccccc;
+  background-color: #e2e2e2;
 }
 header {
   position: fixed;
   top: 0;
   right: 0;
   left: 0;
-  border-bottom: 1px solid #e3e3e8;
+  border-bottom: 1px solid #333;
 }
 #logo {
   float: left;
@@ -17,7 +17,7 @@ header {
   padding: .4em;
   text-decoration: none;
   color: #333;
-  border-right: 1px solid #e3e3e8;
+  border-right: 1px solid #333;
   transition: .5s all;
 }
 #logo:hover {
