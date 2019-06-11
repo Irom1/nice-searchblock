@@ -54,7 +54,8 @@ nav ul li a:hover {
 
 h1 {
   font-size: 100;
-  padding-top: 200px;
+  padding-top: 150px;
+  float: left;
 }
 
 hr {
