@@ -51,3 +51,12 @@ nav ul li a:hover {
 #current {
   color: #ff4629;
 }
+
+h1 {
+  font-size: 100;
+}
+
+hr {
+  border-color: #333
+  border-width: 3px;
+}
