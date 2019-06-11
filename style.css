@@ -9,6 +9,7 @@ header {
   right: 0;
   left: 0;
   border-bottom: 3px solid #333;
+  padding: 10px;
 }
 #logo {
   float: left;
@@ -59,4 +60,5 @@ h1 {
 
 hr {
   border-color: #333
+  border-width: 100%;
 }
