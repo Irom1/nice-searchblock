@@ -62,13 +62,15 @@ h1 {
 
  .error h1 {
   font-size: 100;
-  margin-top: 50px;
+  margin: auto;
   text-align: center;
   font-weight: bold;
+  float: inherit;
 }
 
 .error h3 {
  font-size: 50;
- margin-top: 150px;
+ margin: auto;
  text-align: center;
+ float: inherit;
 }
