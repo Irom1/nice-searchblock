@@ -56,9 +56,5 @@ h1 {
   font-size: 100;
   padding-top: 75px;
   text-align: left;
-}
-
-hr {
-  border-color: #333
-  border-width: 100%;
+  float: left;
 }
