@@ -62,15 +62,13 @@ h1 {
 
  .error h1 {
   font-size: 100;
-  padding-top: 75px;
+  padding-top: 150px;
   text-align: center;
-  float: none;
   font-weight: bold;
 }
 
 .error h3 {
  font-size: 75;
- padding-top: 75px;
+ padding-top: 150px;
  text-align: center;
- float: none;
 }
