@@ -9,6 +9,7 @@ header {
   right: 0;
   left: 0;
   border-bottom: 3px solid #333;
+  background-color: #e2e2e2
 }
 #logo {
   float: left;
