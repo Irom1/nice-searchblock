@@ -5,6 +5,6 @@ function myFunction() {
     x.style.display = "block";
   } else {
     x.style.display = "none";
-    document.getElementsByTagName("button")[0].setAttribute("button");
+    document.getElementsByTagName("button")[0].setAttribute("class", "button");
   }
 }
