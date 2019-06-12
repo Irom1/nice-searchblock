@@ -58,6 +58,8 @@ h1 {
   text-align: left;
   float: left;
   margin-left: -300px;
+  margin-right: auto;
+  position: absolute;
 }
 
  .error h1 {
@@ -74,3 +76,12 @@ h1 {
  text-align: center;
  float: inherit;
 }
+
+h3 {
+  font-size: 50;
+  padding-top: 10px;
+  text-align: left;
+  float: left;
+  margin-left: -300px;
+  margin-right: auto;
+  position: relative;
