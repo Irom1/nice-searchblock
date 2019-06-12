@@ -6,3 +6,7 @@ function myFunction() {
     x.style.display = "none";
   }
 }
+
+function myFunction() {
+  document.getElementsByTagName("button")[0].setAttribute("class", "democlass");
+}
