@@ -76,13 +76,17 @@ h3 {
 
 button {
   margin-top: 46px;
-  border-radius: 2px;
+  border-radius: 5px;
   background-color: #78a9ff;
 }
 
 .democlass {
   margin-top: 0;
   margin-bottom: 0;
-  border-radius: 2px;
+  border-radius: 5px;
   background-color: #78a9ff;
+}
+
+.cookies {
+  margin-top: 100px;
 }
