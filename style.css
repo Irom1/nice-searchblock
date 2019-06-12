@@ -58,6 +58,7 @@ h1 {
   text-align: left;
   float: left;
   margin-left: -300px;
+  position: absolute;
 }
 
  .error h1 {
@@ -80,4 +81,5 @@ border-top: 3px solid #333;
 border-left: 0;
 border-right: 0;
 margin-top: 300px;
+position: relative;
 }
