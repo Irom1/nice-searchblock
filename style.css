@@ -59,7 +59,7 @@ h1 {
   padding-top: 75px;
   text-align: left;
   float: left;
-  margin-left: -300px;
+  margin-left: auto;
   margin-right: auto;
   position: absolute;
 }
@@ -81,9 +81,9 @@ h1 {
 
 h3 {
   font-size: 50;
-  padding-top: 2250px;
+  padding-top: 250px;
   text-align: left;
   float: left;
-  margin-left: -300px;
+  margin-left: auto;
   margin-right: auto;
   position: relative;
