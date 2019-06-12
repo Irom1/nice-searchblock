@@ -57,7 +57,6 @@ h1 {
   padding-top: 75px;
   text-align: left;
   float: left;
-  position: absolute;
 }
 
  .error h1 {
@@ -73,11 +72,4 @@ h1 {
  margin: auto;
  text-align: center;
  float: inherit;
-}
-
-hr {
-border-top: 3px solid #333;
-border-left: 0;
-border-right: 0;
-position: relative;
 }
