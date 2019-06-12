@@ -83,3 +83,30 @@ button {
   margin-top: 0;
   margin-bottom: 0;
 }
+
+#search {
+  position: fixed;
+    top: 112px;
+    bottom: 0px;
+    right: 0px;
+    width: 100%;
+    border: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    z-index: 0;
+    height: 100vh;
+}
+
+.search2 {
+  top: 24px;
+  bottom: 0px;
+  right: 0px;
+  width: 100%;
+  border: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  z-index: 0;
+  height: 100vh;
+}
