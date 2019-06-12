@@ -3,7 +3,7 @@ html {
   margin: 1em 20%;
   background-color: #eaebed;
 color: #333;
-z-index: -10;
+z-index: -20;
 }
 header {
   position: fixed;
