@@ -6,7 +6,7 @@
 
 <link href="https://fonts.googleapis.com/css?family=Oswald&display=swap" rel="stylesheet">
 
-<script src="header.html"></script>
+<?php include 'header.php';?>
 
 <footer>
 
