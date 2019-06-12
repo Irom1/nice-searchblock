@@ -76,6 +76,7 @@ h1 {
 }
 
 hr {
-  border-width: thin;
-  border-color: #333
+border-top: 3px solid #333;
+border-left: 0;
+border-right: 0;
 }
