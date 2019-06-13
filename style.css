@@ -101,7 +101,7 @@ hr {
   margin-top: 325;
 }
 
-hr .normal {
+.normal hr {
   border: 3px solid #333;
   width: 80%;
   position: relative;
