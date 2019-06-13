@@ -100,3 +100,12 @@ hr {
   float: left;
   margin-top: 325;
 }
+
+hr {
+  border: 3px solid #333;
+  width: 80%;
+  position: relative;
+  float: left;
+padding-top: 30px;
+padding-bottom: 30px;
+}
