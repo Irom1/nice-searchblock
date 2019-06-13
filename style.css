@@ -23,7 +23,7 @@ header {
 
 body {
   display: block;
-  margin-top: 120px;
+  margin-top: 125px;
   margin-left: 30px;
 }
 
@@ -35,12 +35,10 @@ hr {
 
 h1 {
   padding-top: 20px;
-  padding-bottom: 20px;
 }
 
 h2 {
   padding-top: 20px;
-  padding-bottom: 20px;
 }
 
 code {
