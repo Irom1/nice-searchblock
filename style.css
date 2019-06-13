@@ -21,4 +21,6 @@ header h1 {
 
 body {
   display: block;
+  margin-top: 160px;
+  margin-left: 30px;
 }
