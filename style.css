@@ -13,4 +13,5 @@ header {
   z-index: 10;
   color: #eaebed;
   padding-bottom: 50px;
+  display: block;
 }
