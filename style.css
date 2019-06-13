@@ -33,11 +33,15 @@ border: 2px solid #333;
 }
 
 h1 {
-
+margin-right: 30px;
 }
 
 h2 {
+margin-right: 30px;
+}
 
+h3 {
+margin-right: 30px;
 }
 
 code {
