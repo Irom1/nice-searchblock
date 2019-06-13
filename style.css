@@ -15,8 +15,9 @@ header {
   display: block;
 }
 
-header h1 {
+.header h1 {
   padding-left: 30px;
+  padding-top: 0;
 }
 
 body {
@@ -29,6 +30,10 @@ hr {
   border: 2px solid #333;
   float: left;
   width: 80%
+}
+
+header h1 {
+  padding-top: 0
 }
 
 h1 {
