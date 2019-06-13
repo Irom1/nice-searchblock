@@ -1,7 +1,6 @@
 html {
   font-family: 'Oswald', sans-serif;
-  margin-left: 40px;
-  background-color: #78a9ff;
+  background-color: #eaebed;
 color: #333;
 z-index: -20;
 }
@@ -14,98 +13,5 @@ header {
   background-color: #3a8bff;
   z-index: 10;
   color: #333;
-}
-#logo {
-  float: left;
-  font-size: 3em;
-  margin: 0;
-  padding: .4em;
-  text-decoration: none;
-  color: #333;
-  border-right: 3px solid #333;
-  transition: .5s all;
-}
-#logo:hover {
-  color: #eaebed;
-  background-color: #333;
-}
-nav {
-  float: left;
-}
-nav ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 2.2em 2em;
-}
-nav ul li {
-  display: inline;
-  padding: 0 .4em;
-}
-nav ul li a {
-  color: #333;
-  text-decoration: none;
-  text-transform: uppercase;
-  font-size: 1.6em;
-  padding-bottom: 1.3em;
-  transition: .5s color;
-}
-nav ul li a:hover {
-  border-bottom: 3px solid #333;
-  color: #eaebed;
-}
-
-h1 {
-  font-size: 100;
-  padding-top: 75px;
-  text-align: left;
-  float: left;
-  margin-left: auto;
-  margin-right: auto;
-  position: absolute;
-}
-
-h3 {
-  font-size: 50;
-  margin-top: 30px;
-  text-align: left;
-  float: left;
-  margin-left: auto;
-  margin-right: auto;
-  position: relative;
-}
-
-button {
-  margin-top: 46px;
-  border-radius: 5px;
-  background-color: #78a9ff;
-}
-
-.democlass {
-  margin-top: 0;
-  margin-bottom: 0;
-  border-radius: 5px;
-  background-color: #78a9ff;
-}
-
-.music {
-  margin-top: 150px;
-  padding: 20px;
-  width: 80%;
-}
-
-hr {
-  border: 3px solid #333;
-  width: 80%;
-  position: relative;
-  float: left;
-  margin-top: 325;
-}
-
-.normal hr {
-  border: 3px solid #333;
-  width: 80%;
-  position: relative;
-  float: left;
-margin-top: 30px;
-margin-bottom: 30px;
+  padding-bottom: 20px;
 }
