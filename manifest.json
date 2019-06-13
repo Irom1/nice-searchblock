@@ -1,9 +1,0 @@
-{
-    "name": "Searchblock History Remover",
-    "version": "1.0",
-    "description": "Remove browser history bookmarklet.",
-    "permissions": [
-          "bookmarks"
-        ],
-    "manifest_version": 2
-  }
