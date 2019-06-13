@@ -66,3 +66,7 @@ footer {
     margin-left: -40;
     text-align: center;
 }
+
+footer a {
+  color: #d6d622
+}
