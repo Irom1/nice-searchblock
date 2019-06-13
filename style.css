@@ -12,10 +12,13 @@ header {
   background-color: #333;
   z-index: 10;
   color: #eaebed;
-  padding-bottom: : 5px;
   display: block;
 }
 
 header h1 {
-  padding-left: 40px;
+  padding-left: 30px;
+}
+
+body {
+  display: block;
 }
