@@ -100,11 +100,3 @@ hr {
   float: left;
   margin-top: 325;
 }
-
-.hr2 hr {
-  border: 3px solid #333;
-  width: 80%;
-  position: relative;
-  float: left;
-  margin-top: 425;
-}
