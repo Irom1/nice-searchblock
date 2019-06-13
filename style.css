@@ -3,6 +3,7 @@ html {
   background-color: #f2ebe1;
 color: #333;
 z-index: -20;
+overflow: hidden;
 }
 header {
   position: fixed;
