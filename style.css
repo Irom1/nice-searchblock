@@ -92,3 +92,9 @@ button {
   padding: 20px;
   width: 80%;
 }
+
+hr {
+  border: 3px solid #333;
+  width: 80%;
+  padding: 10px;
+}
