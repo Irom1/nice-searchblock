@@ -1,15 +1,15 @@
-function functionabout {
+function functionabout() {
   document.getElementById("mainbox").src = "about";
 }
 
-function functionpgs {
+function functionpgs() {
   document.getElementById("mainbox").src = "pgs";
 }
 
-function functionbing {
+function functionbing() {
   document.getElementById("mainbox").src = "bing";
 }
 
-function functionmusic {
+function functionmusic() {
   document.getElementById("mainbox").src = "music";
 }
