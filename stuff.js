@@ -1,5 +1,5 @@
 function functionabout() {
-  document.getElementById("mainbox").src = "index";
+  document.getElementById("mainbox").src = "about";
 }
 
 function functionpgs() {
