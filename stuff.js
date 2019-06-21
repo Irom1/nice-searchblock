@@ -1,4 +1,3 @@
-$(window).unload(function(){
-  myfun();
-  alert('Bye.');
+window.addEventListener('beforeunload', (event) => {
+  event.returnValue = `Are you sure you want to leave?`;
 });
