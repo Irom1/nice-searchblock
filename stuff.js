@@ -1,4 +1,4 @@
-window.onbeforeunload = function(){
+$(window).unload(function(){
   myfun();
-  return 'Are you sure you want to leave?';
-};
+  alert('Bye.');
+});
