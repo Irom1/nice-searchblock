@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>About - Searchblock</title>
+  <title>Searchblock</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
   <link href="https://fonts.googleapis.com/css?family=Raleway&display=swap" rel="stylesheet">
 <style>
@@ -29,6 +29,7 @@ body {margin:0;}
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
+  cursor: pointer;
 }
 
 .navbar a:hover {
@@ -41,22 +42,32 @@ body {margin:0;}
   margin-top: 30px;
   height: 1500px; /* Used in this example to enable scrolling */
 }
+  
+  iframe {
+    box-shadow: 0px 0px 10px black;
+    border: none;
+    margin-top: 30px;
+    margin-left: 10px;
+    height: 500px;
+    float: left;
+    width: 800px
+  }
 </style>
 </head>
 <body>
 
 <div class="navbar">
   <a title="Delete Searchblock.cf From Your History" href="javascript:location.replace('https://google.com');">Searchblock.cf</a>
-  <a href="javascript:location.replace('about');">About</a>
-  <a href="javascript:location.replace('pgs');">PGS</a>
-  <a href="javascript:location.replace('bing');">Bing</a>
-  <a href="javascript:location.replace('music');">Music</a>
+  <a onclick="functionabout()">About</a>
+  <a onclick="functionpgs()">PGS</a>
+  <a onclick="functionbing()">Bing</a>
+  <a onclick="functionmusic()">Music</a>
 </div>
+    
+  <iframe id="mainbox" src="https://www.irom.ga"></iframe>
   
   <div class="main">
-    <h1>About Searchblock</h1>
-    <hr/>
-    
+
   </div>
 
 </body>
