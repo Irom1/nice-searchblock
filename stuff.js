@@ -19,7 +19,7 @@ function functionbing() {
 
  document.getElementById("music").addEventListener("click", functionmusic); //adding click function to element
 function functionmusic() {
-  document.getElementById("mainbox").src = "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/277152167&color=%23202b8f&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"; //changing mainbox's src
+  document.getElementById("mainbox").src = "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/277152167&color=%230066cc&auto_play=false&hide_related=false&show_comments=false&show_user=false&show_reposts=false&show_teaser=false"; //changing mainbox's src
 }
 //end of change
 }
