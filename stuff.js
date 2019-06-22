@@ -34,9 +34,4 @@ function functionweather() {
   document.getElementById("mainbox").src = "https://cdnres.willyweather.com/widget/loadView.html?id=111418%22%20width=%22700%22%20height=%22520%22%20frameborder=%220%22%20scrolling=%22no%22"; //changing mainbox's src
 }
 //end of change
-  window.onbeforeunload = confirmExit;
-  function confirmExit()
-  { javascript:location.replace('https://google.com');
-    return "Are you shure you do not want to click the Searchblock.cf button to remove this site from your search history?";
-  }
 }
