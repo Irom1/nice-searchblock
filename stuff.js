@@ -28,4 +28,10 @@ function functionbook() {
   document.getElementById("mainbox").src = "https://www.searchblock.cf/bookmarklets"; //changing mainbox's src
 }
 //end of change
+  
+  document.getElementById("weather").addEventListener("click", functionweather); //adding click function to element
+function functionweather() {
+  document.getElementById("mainbox").src = "https://cdnres.willyweather.com/widget/loadView.html?id=111418%22%20width=%22700%22%20height=%22520%22%20frameborder=%220%22%20scrolling=%22no%22"; //changing mainbox's src
+}
+//end of change
 }
