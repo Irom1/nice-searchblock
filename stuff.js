@@ -13,7 +13,7 @@ function functionpgs() {
 
  document.getElementById("bing").addEventListener("click", functionbing); //adding click function to element
 function functionbing() {
-  document.getElementById("mainbox").src = "https://www.searchblock.cf/bing"; //changing mainbox's src
+  document.getElementById("mainbox").src = "https://www.bing.com"; //changing mainbox's src
 }
 //end of change
 
